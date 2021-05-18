@@ -19,7 +19,7 @@ body {
     url('../assets/mobile-background-top.svg'),
     url('../assets/mobile-background-middle.svg'),
     url('../assets/mobile-background-bottom.svg');
-  background-position: center top, center center, center bottom;
+  background-position: center -4%, center center, center bottom;
   background-repeat: no-repeat;
   font-family: 'Roboto', sans-serif;
   line-height: 28px;
