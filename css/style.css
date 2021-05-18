@@ -34,6 +34,7 @@ body {
     url('../assets/background-image-middle.svg'),
     url('../assets/background-image-bottom.svg');
     background-size: 3840px;
+    background-position: center top, center center, center bottom;
   }
 }
 
