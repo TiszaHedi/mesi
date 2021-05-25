@@ -1,0 +1,25 @@
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+/* Helper classes */
+.mb-0 { margin-bottom: 0; }
+
+.gutter { margin-bottom: 1.75rem; }
+
+
+.article-subtitle { margin-bottom: 3.75rem; }
+
+figure:nth-of-type(3) { padding-top: 0.84375rem; }
+
+
+@media(max-width: 992px) {
+  .article-body .list li { 
+    padding-bottom: 14px; 
+    line-height: 1.4;
+  }
+
+  .article-body .list li:last-child { padding-bottom: 0; }
+}
