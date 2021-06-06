@@ -1,3 +1,5 @@
 @import url('article2.css');
 
-figure:first-of-type { margin-bottom: 3.75rem; }
+.arcitle-lead { padding-bottom: 3.75rem; }
+
+figure:first-of-type { margin-bottom: 0; }
