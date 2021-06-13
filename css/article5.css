@@ -1,0 +1,5 @@
+@import 'article2.css';
+
+.article-lead { padding-bottom: 0; }
+
+figure:first-of-type { margin-bottom: 2rem; }
